@@ -13,7 +13,7 @@
     "target": "es5",
     "module": "es2015",
     "baseUrl": "",
-    "types": []
+    "types": ["firebase", "node"]
   },
   "exclude": [
     "test.ts",
